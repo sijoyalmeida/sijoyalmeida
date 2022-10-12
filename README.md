@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sijoy Almeida</h1>
-<h3 align="center">A passionate Data Analyst from Mumbai,India.</h3>
+<h1 align="center">Hi 👋 I'm Sijoy Almeida</h1>
+<h3 align="center">A Upcoming Data Analyst from Mumbai,India.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=790b76111e18726bcece7aeac9083591a603ff81944dbe4c&rid=giphy.gif&ct=g" >
 
 - 🌱 I’m currently learning **R Studio**
 
